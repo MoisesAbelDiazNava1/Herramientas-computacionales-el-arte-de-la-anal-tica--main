@@ -1,0 +1,12 @@
+[project]
+name = "herramientas-computacionales-el-arte-de-la-anal-tica-main"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.10"
+dependencies = [
+    "jupyterlab>=4.2.5",
+    "matplotlib>=3.9.2",
+    "pandas>=2.2.3",
+    "seaborn>=0.13.2",
+]
